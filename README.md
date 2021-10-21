@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi 👋, I'm Jack
+![](https://komarev.com/ghpvc/?username=JF-Dunford)
+
+I don't do much.
+
+
 
 <!--
 **JF-Dunford/JF-Dunford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
